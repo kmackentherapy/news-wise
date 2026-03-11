@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "image": "/images/ai_example1.png",
+    "answer": "ai",
+    "explanation": "This image shows typical AI artifacts such as inconsistent lighting and unnatural textures."
+  },
+  {
+    "id": 2,
+    "image": "/images/real_example1.jpg",
+    "answer": "real",
+    "explanation": "This is a real photograph with natural shadows and consistent detail."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "article": "A new government policy aims to reduce carbon emissions by 30% over the next decade.",
+    "headline_positive": "Government Takes Bold Action to Protect the Environment",
+    "headline_negative": "Government Imposes Restrictive New Rules That Could Hurt Businesses"
+  },
+  {
+    "id": 2,
+    "article": "A study found that screen time among teenagers has increased by 20% in the last year.",
+    "headline_positive": "New Study Shows Teens More Connected Than Ever",
+    "headline_negative": "Teen Screen Time Skyrockets, Raising Health Concerns"
+  }
+]
+

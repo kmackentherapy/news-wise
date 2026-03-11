@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "The sun dipped below the horizon, painting the sky in soft shades of amber as the last birds settled into the trees.",
+    "answer": "human",
+    "explanation": "This is a natural, descriptive passage with emotional nuance typical of human writing."
+  },
+  {
+    "id": 2,
+    "text": "The system demonstrates improved efficiency by optimizing task allocation across distributed nodes, resulting in reduced latency.",
+    "answer": "ai",
+    "explanation": "This is characteristic of AI-generated technical writing: precise, structured, and impersonal."
+  }
+]
