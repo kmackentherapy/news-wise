@@ -10,5 +10,23 @@
     "image": "/images/real_example1.jpg",
     "answer": "real",
     "explanation": "This is a real photograph with natural shadows and consistent detail."
+  },
+  {
+    "id": 3,
+    "image": "/images/Fake Kids.png",
+    "answer": "ai",
+    "explanation": "The faces of the kids look extremely robotic. The lines of the paper are not straight."
+  },
+  {
+    "id": 4,
+    "image": "/images/Fake Cat.png",
+    "answer": "ai",
+    "explanation": "The cat's hair is very smooth, and the keyboards on the laptop seem odd."
+  },
+  {
+    "id": 5,
+    "image": "/images/Real Cat.png",
+    "answer": "real",
+    "explanation": "The cat's fur has natural variation, and the lighting is consistent with a real photograph."
   }
 ]
