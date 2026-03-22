@@ -16,14 +16,14 @@
   {
     "id": 3,
     "text": "Rap group Kneecap says crisis-hit Cuba being 'strangled'",
-    "image": "/images/kneecap.png",
+    "image": "/images/Kneecap.png",
     "answer": "real",
     "explanation": "The claim that Cuba is being 'strangled' is a real statement made by the rap group Kneecap on their social media."
   },
   {
     "id": 4,
     "text": "Detox tea helps to lose weight",
-    "image": "/images/fat.png",
+    "image": "/images/Fat.png",
     "answer": "fake",
     "explanation": "This ad promoting false health claims was disguised as a news article on Instagram."
   }
